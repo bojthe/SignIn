@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="sign_in_title">Sign in</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="counter_label_reg">Number of calls from Register page</string>
+    <string name="counter_label_prof">Number of calls from Profile</string>
+</resources>
